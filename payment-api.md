@@ -1,3 +1,3 @@
-List Recent changes as a table.
-Further data will be available as logs/traces in datadog.
-Root cause is usually a bad deployment
+Main workflow to run is "Rollback Main Application"
+Keep responses simple. Crashes are most probably human error, and cannot be fixed, only mitigated by rolling back.
+
